@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>customer.ico</file>
+        <file>fileopen.png</file>
+        <file>filesave.png</file>
+        <file>green.png</file>
+        <file>flash.jpg</file>
+        <file>icon.png</file>
+        <file>connect.ico</file>
+        <file>logo.bmp</file>
+    </qresource>
+</RCC>
